@@ -211,23 +211,11 @@ Contributed as a backend-focused developer on an Agile team, designing MongoDB c
 ## 📊 GitHub Analytics
 
 <br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagan118&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan118&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagan118&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=9D4EDD&fire=6A0DAD&currStreakLabel=9D4EDD" alt="streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagan118&bg_color=0d0d1a&color=9D4EDD&line=6A0DAD&point=C77DFF&area=true&hide_border=true" alt="activity graph"/>
 
 </div>
 
