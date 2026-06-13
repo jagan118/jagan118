@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,3700B3&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi%2C+I'm+Avula+Jagan+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi%2C+I'm+Avula+jagan118+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,14 +14,14 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaganachari2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jetti-Ganesh)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagan118achari2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jagan118)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jetti-Ganesh&style=for-the-badge&color=6A0DAD)
-![Followers](https://img.shields.io/github/followers/Jetti-Ganesh?style=for-the-badge&color=4B0082&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/Jetti-Ganesh?style=for-the-badge&color=9D4EDD&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=jagan118&style=for-the-badge&color=6A0DAD)
+![Followers](https://img.shields.io/github/followers/jagan118?style=for-the-badge&color=4B0082&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/jagan118?style=for-the-badge&color=9D4EDD&labelColor=1a1a2e)
 
 </div>
 
@@ -34,7 +34,7 @@
 </div>
 
 ```yaml
-name        : Avula Jagan
+name        : Avula jagan118
 alias       : Jackk!!
 role        : Full-Stack Developer (MERN Stack)
 location    : Gooty, Andhra Pradesh, India
@@ -78,6 +78,26 @@ open_to     : Full-Stack Developer | MERN Developer | Junior SDE Roles
 
 <div align="center">
 
+## 🧠 AI / ML Expertise
+
+</div>
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| **REST API Design** | ⭐⭐⭐⭐ | RESTful architecture, status codes, versioning, CRUD |
+| **Authentication Systems** | ⭐⭐⭐⭐ | JWT, OTP email auth, refresh tokens, role-based access |
+| **State Management** | ⭐⭐⭐⭐ | Redux Toolkit, Context API, useReducer patterns |
+| **Database Design** | ⭐⭐⭐ | MongoDB schemas, Atlas, indexing, aggregation pipelines |
+| **Full-Stack Deployment** | ⭐⭐⭐ | Render.com, environment config, CORS, split deployments |
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🚀 Featured Projects
 
 </div>
@@ -95,7 +115,8 @@ open_to     : Full-Stack Developer | MERN Developer | Junior SDE Roles
 | **Auth** | JWT access tokens + OTP email verification via Resend API |
 | **Features** | Wallet system · Group expense tracking · Analytics dashboard · Dark/Light theme |
 | **Deployment** | Frontend + Backend split on Render.com |
-| **Repository** | [github.com/Jetti-Ganesh/SmartSplit](https://github.com/Jetti-Ganesh/SmartSplit) |
+| **Impact** | End-to-end solo build — design, development, deployment, debugging |
+| **Repository** | [github.com/jagan118/SmartSplit](https://github.com/jagan118/SmartSplit) |
 
 Designed and shipped a real-world fintech-style application handling multi-user expense splitting, persistent wallet balances, and transaction history. Implemented a full auth pipeline with JWT refresh logic and email OTP. Overcame SMTP blocking on Render's free tier by migrating to the Resend API. Built a Redux-powered theme system with localStorage persistence and a RESTful analytics controller returning aggregated spend data per user.
 
@@ -115,8 +136,9 @@ Designed and shipped a real-world fintech-style application handling multi-user 
 | **Stack** | React.js · Node.js · Express.js · MongoDB |
 | **Scale** | 32+ REST API endpoints · Multi-role auth (Customer / Provider / Admin) |
 | **Architecture** | Booking state machine · KYC pipeline · Geospatial search schemas |
+| **Security** | Role-based JWT auth · Input validation · Protected routes |
 | **Scope** | Auth module · Booking management · Service listing · Sprint planning |
-| **Repository** | [github.com/team-yodhas-project/home-services-project](https://github.com/team-yodhas-project/home-services-project) |
+| **Repository** | [github.com/jagan118/home-services-project](https://github.com/jagan118/home-services-project) |
 
 Contributed as a backend-focused developer on an Agile team, designing MongoDB collection schemas, 32+ REST endpoints, and a booking state machine with strict status transitions (pending → confirmed → in-progress → completed). Architected multi-role JWT auth flows and contributed to the full sprint plan covering 4 development phases.
 
@@ -193,16 +215,31 @@ Contributed as a backend-focused developer on an Agile team, designing MongoDB c
 
 <div align="center">
 
+## 💻 Coding Profiles
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-profile)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/your-profile)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-profile)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📊 GitHub Analytics
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jetti-Ganesh&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jetti-Ganesh&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagan118&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan118&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jetti-Ganesh&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=9D4EDD&fire=6A0DAD&currStreakLabel=9D4EDD" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jagan118&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=9D4EDD&fire=6A0DAD&currStreakLabel=9D4EDD" alt="streak"/>
 
 </div>
 
@@ -212,7 +249,7 @@ Contributed as a backend-focused developer on an Agile team, designing MongoDB c
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jetti-Ganesh&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jagan118&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/>
 
 </div>
 
@@ -222,7 +259,7 @@ Contributed as a backend-focused developer on an Agile team, designing MongoDB c
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jetti-Ganesh&bg_color=0d0d1a&color=9D4EDD&line=6A0DAD&point=C77DFF&area=true&hide_border=true" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagan118&bg_color=0d0d1a&color=9D4EDD&line=6A0DAD&point=C77DFF&area=true&hide_border=true" alt="activity graph"/>
 
 </div>
 
@@ -233,9 +270,9 @@ Contributed as a backend-focused developer on an Agile team, designing MongoDB c
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jetti-Ganesh/Jetti-Ganesh/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jetti-Ganesh/Jetti-Ganesh/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Jetti-Ganesh/Jetti-Ganesh/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jagan118/jagan118/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagan118/jagan118/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jagan118/jagan118/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -274,9 +311,9 @@ current_focus:
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaganachari2006@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagan118achari2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jetti-Ganesh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jagan118)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 
 </div>
