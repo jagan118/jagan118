@@ -35,9 +35,9 @@
 
 ```yaml
 name        : Avula Jagan
-alias       : Jetti-Ganesh
+alias       : Jackk!!
 role        : Full-Stack Developer (MERN Stack)
-location    : Tirupati, Andhra Pradesh, India
+location    : Gooty, Andhra Pradesh, India
 education   : Diploma in Computer Science — S.V. Govt. Polytechnic College (2023–2026)
 experience  : 6-Month Internship @ Thoughtworks Pvt. Ltd., Hyderabad
 ncc         : NCC 'C' Certificate — Discipline | Leadership | National Service
