@@ -34,7 +34,7 @@
 </div>
 
 ```yaml
-name        : Avula jagan118
+name        : Avula Jagan
 alias       : Jackk!!
 role        : Full-Stack Developer (MERN Stack)
 location    : Gooty, Andhra Pradesh, India
@@ -73,28 +73,6 @@ open_to     : Full-Stack Developer | MERN Developer | Junior SDE Roles
 [![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,render&theme=dark)](https://skillicons.dev)
 
 </div>
-
----
-
-<div align="center">
-
-## 🧠 AI / ML Expertise
-
-</div>
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **REST API Design** | ⭐⭐⭐⭐ | RESTful architecture, status codes, versioning, CRUD |
-| **Authentication Systems** | ⭐⭐⭐⭐ | JWT, OTP email auth, refresh tokens, role-based access |
-| **State Management** | ⭐⭐⭐⭐ | Redux Toolkit, Context API, useReducer patterns |
-| **Database Design** | ⭐⭐⭐ | MongoDB schemas, Atlas, indexing, aggregation pipelines |
-| **Full-Stack Deployment** | ⭐⭐⭐ | Render.com, environment config, CORS, split deployments |
-
-</div>
-
----
 
 <div align="center">
 
@@ -240,16 +218,6 @@ Contributed as a backend-focused developer on an Agile team, designing MongoDB c
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagan118&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=9D4EDD&fire=6A0DAD&currStreakLabel=9D4EDD" alt="streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=jagan118&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/>
 
 </div>
 
