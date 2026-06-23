@@ -6,23 +6,6 @@
 
 <br/>
 
-![Diploma CS](https://img.shields.io/badge/Diploma-Computer%20Science-6A0DAD?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![NCC](https://img.shields.io/badge/NCC-C%20Certificate-4B0082?style=for-the-badge&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Tirupati%2C%20Andhra%20Pradesh-3700B3?style=for-the-badge)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagan118achari2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jagan118)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jagan118&style=for-the-badge&color=6A0DAD)
-![Followers](https://img.shields.io/github/followers/jagan118?style=for-the-badge&color=4B0082&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/jagan118?style=for-the-badge&color=9D4EDD&labelColor=1a1a2e)
-
 </div>
 
 ---
