@@ -1,268 +1,64 @@
-<div align="center">
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Itz_Jagan~! — temple at night under a vermilion moon"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,3700B3&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<p align="center">
+  <b>静寂の中で、創造する。</b><br/>
+  <i>Building ideas into reality, one project at a time.</i>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi%2C+I'm+Avula+Jagan+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack+Engineer)](https://git.io/typing-svg)
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-## `> whoami`
-
-</div>
-
-```yaml
-name        : Avula Jagan
-alias       : Jackk!!
-role        : Full-Stack Developer (MERN Stack)
-location    : Gooty, Andhra Pradesh, India
-education   : Diploma in Computer Science — S.V. Govt. Polytechnic College (2023–2026)
-experience  : 6-Month Internship @ Thoughtworks Pvt. Ltd., Hyderabad
-ncc         : NCC 'C' Certificate — Discipline | Leadership | National Service
-open_to     : Full-Stack Developer | MERN Developer | Junior SDE Roles
-```
-
-> Building production-grade web applications end-to-end — from database design to pixel-perfect UI. Trained in Agile teams, shipping features with Git workflows, JWT auth, REST APIs, and cloud deployments. NCC 'C' certified — bringing military-grade discipline and execution to every line of code.
+<p align="center">
+  <a href="https://github.com/jagan118"><img src="https://img.shields.io/badge/GitHub-jagan118-05070A?style=for-the-badge&logo=github&logoColor=DFE7E0" alt="GitHub"/></a>
+  <a href="mailto:jaganachari2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-E0231C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-<div align="center">
+### 01 — The Sanmon &nbsp;<sub>山門</sub>
 
-## ⚡ Tech Stack
+Hey, I'm **Itz_Jagan~!** — a developer who turns ideas into practical, real-world projects. I enjoy full-stack development, interactive 3D web experiences, and system-level concepts.
 
-</div>
-
-<div align="center">
-
-**Languages**
-
-[![Skills](https://skillicons.dev/icons?i=js,python,java,c&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,redux&theme=dark)](https://skillicons.dev)
-
-**Backend & Databases**
-
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
-
-**Tools & DevOps**
-
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,render&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<details>
-<summary><b>💸 SmartSplit — MERN Expense Splitting App</b></summary>
-
-<br/>
-
-> A production-grade full-stack expense management platform for groups — built entirely solo from scratch.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | React.js · Node.js · Express.js · MongoDB Atlas · Redux Toolkit · JWT · Tailwind CSS |
-| **Auth** | JWT access tokens + OTP email verification via Resend API |
-| **Features** | Wallet system · Group expense tracking · Analytics dashboard · Dark/Light theme |
-| **Deployment** | Frontend + Backend split on Render.com |
-| **Impact** | End-to-end solo build — design, development, deployment, debugging |
-| **Repository** | [github.com/jagan118/SmartSplit](https://github.com/jagan118/SmartSplit) |
-
-Designed and shipped a real-world fintech-style application handling multi-user expense splitting, persistent wallet balances, and transaction history. Implemented a full auth pipeline with JWT refresh logic and email OTP. Overcame SMTP blocking on Render's free tier by migrating to the Resend API. Built a Redux-powered theme system with localStorage persistence and a RESTful analytics controller returning aggregated spend data per user.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🏠 Home Services Platform — Team Project</b></summary>
-
-<br/>
-
-> A service marketplace platform connecting customers with verified home service providers.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | React.js · Node.js · Express.js · MongoDB |
-| **Scale** | 32+ REST API endpoints · Multi-role auth (Customer / Provider / Admin) |
-| **Architecture** | Booking state machine · KYC pipeline · Geospatial search schemas |
-| **Security** | Role-based JWT auth · Input validation · Protected routes |
-| **Scope** | Auth module · Booking management · Service listing · Sprint planning |
-| **Repository** | [github.com/jagan118/home-services-project](https://github.com/jagan118/home-services-project) |
-
-Contributed as a backend-focused developer on an Agile team, designing MongoDB collection schemas, 32+ REST endpoints, and a booking state machine with strict status transitions (pending → confirmed → in-progress → completed). Architected multi-role JWT auth flows and contributed to the full sprint plan covering 4 development phases.
-
-</details>
+> *A calm mind. A sharp idea. A better build.*
 
 ---
 
-<div align="center">
+### 02 — Still Gardens &nbsp;<sub>庭園</sub>
 
-## 💼 Experience
-
-</div>
-
-<div align="center">
-
-### Full-Stack Developer Intern · Thoughtworks Pvt. Ltd.
-**📍 Hyderabad, Andhra Pradesh &nbsp;|&nbsp; Nov 2025 – May 2026 &nbsp;|&nbsp; 6 Months**
-
-</div>
-
-> Embedded in a professional Agile engineering team, shipping real features in a MERN stack environment with full ownership of assigned modules.
-
-- Developed and maintained RESTful APIs using Node.js + Express.js integrated with MongoDB
-- Built React.js frontend components with state management, responsive design, and JWT auth flows
-- Resolved complex bugs — CORS mismatches, stale auth state, MongoDB Atlas DNS issues (ISP-level, India)
-- Collaborated daily via Git, GitHub code reviews, and sprint planning ceremonies
-
-<div align="center">
-
-![MERN](https://img.shields.io/badge/MERN-Stack-6A0DAD?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile-Scrum-4B0082?style=flat-square)
-![Git](https://img.shields.io/badge/Git-Workflow-3700B3?style=flat-square)
-![REST](https://img.shields.io/badge/REST-APIs-9D4EDD?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-Auth-6A0DAD?style=flat-square)
-
-</div>
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **Gym Tracker** | Workout logging with routines, sets, reps and progress tracking | React, Node, Express, MongoDB Atlas, Google OAuth | [Repo](REPO_URL_GYM_TRACKER) · [Demo](LIVE_DEMO_GYM_TRACKER) |
+| **3D SketchBook** | Interactive 3D sketchbook with page flips, lighting and custom shaders | React, Three.js, WebGL | [Repo](REPO_URL_3D_SKETCHBOOK) · [Demo](LIVE_DEMO_3D_SKETCHBOOK) |
+| **TeamTasker** | Team task management with priorities, roles and sprint tracking | Modular full-stack app | [Repo](REPO_URL_TEAMTASKER) · [Demo](LIVE_DEMO_TEAMTASKER) |
+| **SmartSplit** | Group expense splitting with balances and settlement tracking | MERN | [Repo](REPO_URL_SMARTSPLIT) · [Demo](LIVE_DEMO_SMARTSPLIT) |
+| **mini-os** | OS simulation: CPU scheduling, paging, interrupts, kernel basics | C, Assembly | [Repo](REPO_URL_MINI_OS) · [Demo](LIVE_DEMO_MINI_OS) |
 
 ---
 
-<div align="center">
+### 03 — Sacred Craft &nbsp;<sub>手業</sub>
 
-## 🏅 Achievements
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,mongodb&theme=dark" alt="Tech stack"/>
+</p>
 
-</div>
+| Domain | Technologies |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, TypeScript |
+| Frameworks | Angular, React |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, MongoDB Atlas |
+| Creative dev | Three.js, WebGL |
 
-<div align="center">
-
-| 🎖️ Recognition | 📋 Details |
-|:---:|:---|
-| **NCC 'C' Certificate** | Highest NCC certification — demonstrating discipline, leadership, teamwork & national commitment |
-| **Thoughtworks Internship** | Selected for 6-month full-stack engineering internship at a global tech firm |
-| **Solo Full-Stack App** | Designed, built, and deployed SmartSplit end-to-end independently |
-| **Team Architecture Lead** | Contributed core backend architecture for a multi-role home services platform |
-
-</div>
-
----
-
-<div align="center">
-
-## 📜 Certifications
-
-</div>
-
-<div align="center">
-
-![Cert1](https://img.shields.io/badge/Certification-Add%20Here-6A0DAD?style=for-the-badge&logo=coursera&logoColor=white)
-![Cert2](https://img.shields.io/badge/MongoDB-University-4B0082?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cert3](https://img.shields.io/badge/freeCodeCamp-Full%20Stack-3700B3?style=for-the-badge&logo=freecodecamp&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jagan118&show_icons=true&hide_border=true&bg_color=05070A&title_color=E0231C&icon_color=E0231C&text_color=DFE7E0" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan118&layout=compact&hide_border=true&bg_color=05070A&title_color=E0231C&text_color=DFE7E0" height="165" alt="Top languages"/>
+</p>
 
 ---
 
-<div align="center">
+### 04 — Afterlight &nbsp;<sub>残光</sub>
 
-## 💻 Coding Profiles
+The gate doesn't close behind you. Say hello anytime: **[jaganachari2006@gmail.com](mailto:jaganachari2006@gmail.com)**
 
-<br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-profile)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/your-profile)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-profile)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan118&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jagan118&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=9D4EDD&fire=6A0DAD&currStreakLabel=9D4EDD" alt="streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jagan118/jagan118/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagan118/jagan118/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jagan118/jagan118/output/github-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Current Focus
-
-</div>
-
-```yaml
-current_focus:
-  learning:
-    - System Design fundamentals
-    - DSA for SDE interviews (Arrays, Trees, DP)
-    - TypeScript & Next.js
-  building:
-    - SmartSplit v2 with real-time notifications
-    - Developer portfolio with AI chatbot (Next.js + Anthropic API)
-  exploring:
-    - Docker basics & containerized deployments
-    - PostgreSQL alongside MongoDB
-  open_to:
-    - Full-Stack Developer (MERN) roles
-    - Junior SDE / Trainee Engineer positions
-    - Remote or Hyderabad / Bangalore based roles
-```
-
----
-
-<div align="center">
-
-## 🤝 Connect With Me
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagan118achari2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jagan118)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-*"Discipline is the bridge between goals and accomplishment."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,3700B3&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Quietly building. Constantly evolving."/>
+</p>

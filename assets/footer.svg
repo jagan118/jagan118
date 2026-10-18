@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Quietly building. Constantly evolving.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#05070a"/>
+      <stop offset="1" stop-color="#0b1219"/>
+    </linearGradient>
+    <radialGradient id="halo" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#e0231c" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#e0231c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#bg)"/>
+  <path d="M0 96 C200 70 340 100 520 82 C700 64 860 104 1040 86 C1120 78 1170 88 1200 84 L1200 120 L0 120Z" fill="#070b0f"/>
+  <circle cx="1020" cy="52" r="70" fill="url(#halo)"><animate attributeName="opacity" values=".7;1;.7" dur="8s" repeatCount="indefinite"/></circle>
+  <circle cx="1020" cy="52" r="22" fill="#e0231c"/>
+  <rect x="0" y="95" width="1200" height="1" fill="#dfe7e0" opacity=".08"/>
+  <g font-family="Onest, 'Segoe UI', system-ui, sans-serif" fill="#78837c">
+    <text x="60" y="58" font-size="12" letter-spacing="3" fill="#aab4ad">影 — QUIETLY BUILDING. CONSTANTLY EVOLVING.</text>
+    <text x="60" y="80" font-size="10" letter-spacing="2.4">© 2026 ITZ_JAGAN~! — 静けさは一つの技である</text>
+  </g>
+</svg>
