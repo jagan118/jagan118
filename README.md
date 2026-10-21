@@ -1,64 +1,100 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Itz_Jagan~! — temple at night under a vermilion moon"/>
+  <img src="assets/hero.svg" width="100%" alt="Itz_Jagan~! — temple at night under a moonlit slate sky"/>
 </p>
 
 <p align="center">
-  <b>静寂の中で、創造する。</b><br/>
-  <i>Building ideas into reality, one project at a time.</i>
+  <i>Thoughtful engineering. Real-world projects. A little atmosphere.</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jagan118"><img src="https://img.shields.io/badge/GitHub-jagan118-05070A?style=for-the-badge&logo=github&logoColor=DFE7E0" alt="GitHub"/></a>
-  <a href="mailto:jaganachari2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-E0231C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/jagan118"><img src="https://img.shields.io/badge/GitHub-jagan118-202833?style=for-the-badge&logo=github&logoColor=F4F6F8" alt="GitHub"/></a>
+  <a href="mailto:jaganachari2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-A9C3D1?style=for-the-badge&logo=gmail&logoColor=111820" alt="Email"/></a>
 </p>
 
----
+<div align="center">
 
-### 01 — The Sanmon &nbsp;<sub>山門</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Onest&weight=300&size=20&duration=3200&pause=1200&color=A9C3D1&center=true&vCenter=true&width=640&height=40&lines=%E5%BD%B1+%E2%80%94+shadow+behind+every+clean+build;Full-stack+%C2%B7+Angular+%C2%B7+React+%C2%B7+Node.js;Turning+ideas+into+shipped+products;Open+to+opportunities+%E2%80%94+let%27s+build+together" alt="Typing intro" />
 
-Hey, I'm **Itz_Jagan~!** — a developer who turns ideas into practical, real-world projects. I enjoy full-stack development, interactive 3D web experiences, and system-level concepts.
+<!-- TODO: Portfolio -->
+<!-- <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-111820?style=for-the-badge&labelColor=111820&color=a9c3d1" alt="Portfolio" /></a> -->
+<!-- TODO: LinkedIn / X / others -->
 
-> *A calm mind. A sharp idea. A better build.*
+</div>
 
----
+<br/>
 
-### 02 — Still Gardens &nbsp;<sub>庭園</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9c3d1,100:111820&height=2&section=header" width="100%" alt="divider" />
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **Gym Tracker** | Workout logging with routines, sets, reps and progress tracking | React, Node, Express, MongoDB Atlas, Google OAuth | [Repo](REPO_URL_GYM_TRACKER) · [Demo](LIVE_DEMO_GYM_TRACKER) |
-| **3D SketchBook** | Interactive 3D sketchbook with page flips, lighting and custom shaders | React, Three.js, WebGL | [Repo](REPO_URL_3D_SKETCHBOOK) · [Demo](LIVE_DEMO_3D_SKETCHBOOK) |
-| **TeamTasker** | Team task management with priorities, roles and sprint tracking | Modular full-stack app | [Repo](REPO_URL_TEAMTASKER) · [Demo](LIVE_DEMO_TEAMTASKER) |
-| **SmartSplit** | Group expense splitting with balances and settlement tracking | MERN | [Repo](REPO_URL_SMARTSPLIT) · [Demo](LIVE_DEMO_SMARTSPLIT) |
-| **mini-os** | OS simulation: CPU scheduling, paging, interrupts, kernel basics | C, Assembly | [Repo](REPO_URL_MINI_OS) · [Demo](LIVE_DEMO_MINI_OS) |
+<hr/>
 
----
+## 🏯 &nbsp;About
 
-### 03 — Sacred Craft &nbsp;<sub>手業</sub>
+> *"The best work happens quietly, in the shadows, until it ships."*
 
+I'm a **developer who builds real-world projects**, not tutorial clones. I like logic, clean architecture, and interfaces that feel *alive*, especially anything with a cinematic, Japanese-inspired mood.
+
+- 🎯 &nbsp;**Currently:** sharpening full-stack skills and looking for my first developer role
+- 🧱 &nbsp;**I build:** web apps, real-time features, 3D/WebGL experiences, and systems-level experiments
+- 🔭 &nbsp;**Exploring:** Three.js scenes, scroll-driven storytelling, system design
+- 📫 &nbsp;**Reach me:** [jaganachari2006@gmail.com](mailto:jaganachari2006@gmail.com)
+
+<hr/>
+
+## ⚔️ &nbsp;Arsenal
+
+<div align="center">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,mongodb&theme=dark" alt="Tech stack"/>
 </p>
 
-| Domain | Technologies |
-|---|---|
-| Frontend | HTML, CSS, JavaScript, TypeScript |
-| Frameworks | Angular, React |
-| Backend | Node.js, Express.js |
-| Database | MongoDB, MongoDB Atlas |
-| Creative dev | Three.js, WebGL |
+
+
+<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan118&layout=compact&hide_border=true&bg_color=111820&title_color=a9c3d1&text_color=c5cdd3" alt="Top languages" />
+
+<br/>
+</div>
+
+<hr/>
+
+## 🌸 &nbsp;Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagan118&show_icons=true&hide_border=true&bg_color=05070A&title_color=E0231C&icon_color=E0231C&text_color=DFE7E0" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan118&layout=compact&hide_border=true&bg_color=05070A&title_color=E0231C&text_color=DFE7E0" height="165" alt="Top languages"/>
+  <i>A selection of things I've built, explored, and learned from.</i>
 </p>
 
----
+<div align="center">
 
-### 04 — Afterlight &nbsp;<sub>残光</sub>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/jagan118/Gym-Tracker"><img src="assets/card-gym-tracker.svg" width="100%" alt="Gym-Tracker — full-stack fitness and workout tracking"/></a></td>
+    <td width="50%" align="center"><a href="https://github.com/jagan118/3D-SketchBook"><img src="assets/card-3d-sketchbook.svg" width="100%" alt="3D-SketchBook — interactive Three.js / WebGL sketching"/></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/jagan118/TeamTasker"><img src="assets/card-teamtasker.svg" width="100%" alt="TeamTasker — collaborative project and task management"/></a></td>
+    <td width="50%" align="center"><a href="https://github.com/jagan118/SmartSplit"><img src="assets/card-smartsplit.svg" width="100%" alt="SmartSplit — shared expenses and debt reconciliation"/></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/jagan118/mini-os"><img src="assets/card-mini-os.svg" width="50%" alt="mini-os — educational operating-system simulation"/></a></td>
+  </tr>
+</table>
 
-The gate doesn't close behind you. Say hello anytime: **[jaganachari2006@gmail.com](mailto:jaganachari2006@gmail.com)**
+<sub>🔹 Click any card to open the repository &nbsp;·&nbsp; Live demos coming soon</sub>
+<!-- TODO: Live demo URLs -->
 
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Quietly building. Constantly evolving."/>
-</p>
+</div>
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+<a href="mailto:jaganachari2006@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-jaganachari2006%40gmail.com-A9C3D1?style=for-the-badge&logo=gmail&logoColor=F4F6F8&labelColor=202833" alt="Email me" /></a>
+
+<!-- TODO: add social badges here
+<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-202833?style=for-the-badge&logo=linkedin&logoColor=A9C3D1" alt="LinkedIn" /></a>
+<a href="X_URL"><img src="https://img.shields.io/badge/X-202833?style=for-the-badge&logo=x&logoColor=F4F6F8" alt="X" /></a>
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a9c3d1,40:283541,100:111820&height=130&section=footer&text=%E5%BD%B1%20%E2%80%94%20build%20in%20silence%2C%20ship%20with%20impact&fontSize=18&fontColor=f4f6f8&fontAlignY=68" alt="footer" width="100%" />
+
+</div>
